@@ -1,5 +1,5 @@
-all:    hello.c
-        gcc hello.c -o mmmma
+all: 
+    gcc hello.c -o mmmma
 clean:  
-        rm mmmma
+    rm mmmma
       
