@@ -1,2 +1,2 @@
-all : 
-    gcc -W hello.c -o output
+all :
+	gcc hello.c -o maaaaaa
