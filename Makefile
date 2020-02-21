@@ -1,2 +1,2 @@
 all :
-	gcc hello.c -o munich
+	gcc hello.c -o munichandra
