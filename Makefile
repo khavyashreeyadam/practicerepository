@@ -1,6 +1,6 @@
 all:hello
 
 hello:
-	gcc hello.c -o ammaaa
+	gcc hello.c -o ama
 clean:	
-	rm -rf ammaa
+	rm -rf ama
