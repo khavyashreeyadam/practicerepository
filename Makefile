@@ -1,4 +1,4 @@
 all:hello
 
 hello:
-	gcc hello.c -o munich
+	gcc hello.c -o municha
